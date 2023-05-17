@@ -1,0 +1,10 @@
+.navbar {
+  color: blue;
+  background-color: grey;
+}
+
+li a:hover {
+  background-color: darkblue;
+  color: white;
+  text-transform: capitalize;
+}/*# sourceMappingURL=navbar.component.css.map */
