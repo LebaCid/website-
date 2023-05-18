@@ -1,4 +1,6 @@
-img {
-  width: 100%;
+.cover-photo-container {
+  background-image: url("../../../assets/images/logo.jpg");
+  background-size: cover;
+  background-position: center;
   height: 100vh;
 }/*# sourceMappingURL=cover.component.css.map */
